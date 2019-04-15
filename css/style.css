@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    padding:0;
+}
+.img-responsive{
+    width:100%;
+    height:100%;
+}
+p{
+    font-size:17px;
+}
+.cord{
+    width:50%;
+    height:auto;
+    text-align:center;
+    float:left;
+}
+.cord-img{
+    width:150px;
+    height:150px;
+}
